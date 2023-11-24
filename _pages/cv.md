@@ -19,20 +19,17 @@ Work experience
 * Apr.-Aug. 2023: Phonetics intern
   * ByteDance
   * Duties included: TTS&NLP&others
-
-#* Fall 2015: Research Assistant
-#  * Github University
-#  * Duties included: Merging pull requests
-#  * Supervisor: Professor Hub
-  
+ 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Coding
+  * python
+* Languages
+  * Chinese(native)
+  * English(CET-4:616; CET-6:595)
+  * Deutsch(A2)
+* Linguistic skills
+  * praat
 
 Publications
 ======
