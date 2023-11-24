@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a fiest-year graduate student at [Institute of Chinese Information Processing](https://icip.bnu.edu.cn/), [School of International Chinese Language Education](https://hywh.bnu.edu.cn/), [Beijing Normal University](https://www.bnu.edu.cn/). I am very fortunate to be advised by [Iris (Renfen) Hu](http://irishu.cn/). I was an undergraduate at [Soochow University](https://www.suda.edu.cn/) and received a BA in Chinese Language and Literature.
+I'm a first-year graduate student at [Institute of Chinese Information Processing](https://icip.bnu.edu.cn/), [School of International Chinese Language Education](https://hywh.bnu.edu.cn/), [Beijing Normal University](https://www.bnu.edu.cn/). I am very fortunate to be advised by [Iris (Renfen) Hu](http://irishu.cn/). I was an undergraduate at [Soochow University](https://www.suda.edu.cn/) and received a BA in Chinese Language and Literature.
 
 My research interests lie at the intersection of linguistics and natural language processing.
 
