@@ -12,4 +12,4 @@ I'm a fiest-year graduate student at [Beijing Normal University](https://www.bnu
 
 My research interests lie at the intersection of linguistics and natural language processing.
 
-Please feel free to contact me.
+Please feel free to contact me: 202321091019@mail.bnu.edu.cn.
