@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Zhihui Yang's Home"
 title_separator          : "-"
-name                     : &name "Zhihui Yang\n杨智惠"
+name                     : &name "Zhihui Yang（杨智惠）"
 description              : &description "personal description"
 url                      : https://ererdewubudesi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zhihui Yang（杨智惠）"
+  name             : "Zhihui Yang\n杨智惠"
   avatar           : "profile_photo.png"
   bio              : "A second-year graduate student interested in computational linguistics"
   location         : "Beijing, China"
