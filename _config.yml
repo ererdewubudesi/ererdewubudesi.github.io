@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Zhihui Yang's Home"
 title_separator          : "-"
-name                     : &name "Zhihui Yang 杨智惠"
+name                     : &name "Zhihui Yang\n杨智惠"
 description              : &description "personal description"
 url                      : https://ererdewubudesi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Zhihui Yang（杨智惠）"
   avatar           : "profile_photo.png"
-  bio              : "A first-year graduate student interested in computational linguistics"
+  bio              : "A second-year graduate student interested in computational linguistics"
   location         : "Beijing, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
