@@ -9,11 +9,11 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Zhihui Yang's Homepage"
+title                    : "Zhihui Yang's Website"
 title_separator          : "-"
 name                     : &name "Zhihui Yang"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://ererdewubudesi.github.io/"
+url                      : "https://ererdewubudesi.github.io/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -25,9 +25,9 @@ author:
   avatar           : "profile.png"
   name             : "Zhihui Yang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "A second-year master's student in computational linguistics."
   location         : ""
-  employer         : ""
+  employer         : "Beijing Normal University"
   uri              : # URL
   email            : "yangzhihui@mail.bnu.edu.cn" 
 
