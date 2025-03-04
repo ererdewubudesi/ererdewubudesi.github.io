@@ -12,7 +12,10 @@ I am a second-year Master's student in the Department of Digital Humanities at t
 
 Feel free to reach out to me via email: yangzhihui@mail.bnu.edu.cn.
 
-Publications
-======
-Working Paper
------
+# Publications
+## Working Paper
+---
+## Conferences
+---
+## Journals
+---
