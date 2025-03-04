@@ -14,4 +14,5 @@ Feel free to reach out to me via email: yangzhihui@mail.bnu.edu.cn.
 
 Publications
 ======
-Like many other Jekyll-based GitHub Pages templates.
+Working Paper
+-----
