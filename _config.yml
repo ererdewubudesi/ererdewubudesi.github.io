@@ -51,10 +51,10 @@ repo_trophies:
 
 navbar_fixed: true
 footer_fixed: false
-search_enabled: flase
-socials_in_search: flase
-posts_in_search: flase
-bib_search: flase
+search_enabled: false
+socials_in_search: false
+posts_in_search: false
+bib_search: false
 
 # Dimensions
 max_width: 930px
