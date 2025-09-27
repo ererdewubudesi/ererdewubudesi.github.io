@@ -35,13 +35,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+            },},{id: "news-to-appear-at-15th-international-conference-in-evolutionary-linguistics",
+          title: '🥳  To appear at 15th International Conference in Evolutionary Linguistics.',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-to-appear-at-emnlp-2025",
-          title: 'To appear at EMNLP 2025.🥳',
+          section: "News",},{id: "news-awarded-second-prize-in-ccl25-task-4-the-first-evaluation-on-chinese-factivity-inference-fie-2025-registered-teams-218-result-submissions-70",
+          title: '🥈 Awarded Second Prize in CCL25-Task 4: The First Evaluation on Chinese Factivity...',
+          description: "",
+          section: "News",},{id: "news-to-appear-at-emnlp-2025",
+          title: '🥳 To appear at EMNLP 2025.',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
