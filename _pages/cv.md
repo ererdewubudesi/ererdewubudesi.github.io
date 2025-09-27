@@ -11,4 +11,12 @@ nav_order: 5
 #   sidebar: left
 ---
 
-<meta http-equiv="refresh" content="0; url=example_pdf.pdf" />
+<!-- JS 优先跳转 -->
+<script>
+  window.location.replace('{{ "/assets/pdf/example_pdf.pdf" | relative_url }}');
+</script>
+
+<!-- Meta 兜底跳转 -->
+<meta http-equiv="refresh" content="0; url={{ "/assets/pdf/example_pdf.pdf" | relative_url }}" />
+
+<p>If you are not redirected, <a href="{{ "/assets/pdf/example_pdf.pdf" | relative_url }}">click here to open the CV (PDF)</a>.</p>
