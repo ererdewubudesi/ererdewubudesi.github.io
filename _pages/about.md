@@ -39,3 +39,5 @@ My primary interests lie at the intersection of Computational Linguistics and Co
 I have also worked on NLP for language and culture, with a strong interest in developing language analysis tools that can support applications in various domains. 
 
 I have completed three language-related internships, including Algorithm Engineer (NLP) at [Tencent](https://www.tencent.com/en-us/), Linguistic Specialist at [ByteDance](https://www.bytedance.com/en/products), and AI Strategy Product Manager (TTS) at [Xiaomi](https://ir.mi.com/corporate-information/company-profile).
+
+Outside of academics, I enjoy practicing karate and taking walks in nature.
