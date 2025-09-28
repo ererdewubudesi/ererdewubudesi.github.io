@@ -7,6 +7,8 @@ nav: true
 nav_order: 2
 ---
 
+# Papers, Conference Talks and Proceedings
+
 <!-- _pages/publications.md -->
 
 <!-- Bibsearch Feature -->
