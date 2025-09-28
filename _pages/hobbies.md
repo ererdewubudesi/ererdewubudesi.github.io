@@ -1,6 +1,6 @@
 ---
 layout: profiles
-permalink: /people/
+permalink: /hobbies/
 title: Hobbies
 # description: members of the lab or group
 nav: true
@@ -15,7 +15,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Karate</p>
-    - align: right
+  - align: right
     image: karate2.jpg
     # content: about_einstein.md
     image_circular: false # crops the image to make it circular
