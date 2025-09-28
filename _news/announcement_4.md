@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🥳 To appear at EMNLP 2025.
+🥳 To appear at [EMNLP 2025](https://2025.emnlp.org/).
