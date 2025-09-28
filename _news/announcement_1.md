@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
- 🥳  To appear at 15th International Conference in Evolutionary Linguistics.
+ 🥳  To appear at [15th International Conference in Evolutionary Linguistics](https://www.ciel-15.com/#/home).
