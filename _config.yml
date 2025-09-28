@@ -275,8 +275,8 @@ terser:
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Zhihui]
-  first_name: [Yang]
+  last_name: [Yang]
+  first_name: [Zhihui]
 
   style: apa
   locale: en
