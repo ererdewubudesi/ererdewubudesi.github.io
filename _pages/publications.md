@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-# Papers and Conference Presentations
+## Papers and Conference Presentations
 
 <!-- _pages/publications.md -->
 
