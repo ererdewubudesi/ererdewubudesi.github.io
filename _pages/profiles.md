@@ -1,28 +1,68 @@
+<head>
+  <style>
+    .profiles {
+      display: flex;
+      flex-wrap: wrap; /* 自动换行 */
+      justify-content: space-evenly; /* 图片间隔自动分配 */
+    }
+
+    .profile {
+      margin: 10px;
+      max-width: 250px;  /* 控制每个 profile 的最大宽度 */
+      text-align: center;
+    }
+
+    .profile img {
+      max-width: 100%;
+      height: auto;
+    }
+
+    .more-info {
+      margin-top: 10px;
+    }
+  </style>
+</head>
+
+<div class="profiles">
+  {% if page.profiles %}
+    {% for profile in page.profiles %}
+      <div class="profile">
+        {% if profile.image %}
+          <img src="{{ profile.image }}" alt="Profile Image">
+        {% endif %}
+        {% if profile.more_info %}
+          <div class="more-info">{{ profile.more_info }}</div>
+        {% endif %}
+      </div>
+    {% endfor %}
+  {% endif %}
+</div>
+
 ---
-layout: profiles
+<!-- layout: profiles -->
 permalink: /people/
-title: people
-description: members of the lab or group
+title: Hobbies
+# description: members of the lab or group
 nav: true
 nav_order: 7
 
 profiles:
-  # if you want to include more than one profile, just replicate the following block
-  # and create one content file for each profile inside _pages/
-  - align: right
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
+  - image: karate1.jpg
+    image_circular: false
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
-  - align: left
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
+      <p>Karate</p>
+
+  - image: karate2.jpg
+    image_circular: false
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
----
+      <p>Karate</p>
+
+  - image: hiking1.jpg
+    image_circular: false
+    more_info: >
+      <p>Hiking</p>
+
+  - image: hiking2.jpg
+    image_circular: false
+    more_info: >
+      <p>Hiking</p>

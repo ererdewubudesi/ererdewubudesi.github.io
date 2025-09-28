@@ -200,9 +200,9 @@ exclude:
   - _pages/dropdown.md
   - _pages/repositories.md
   - _includes/repository
-  - _pages/profiles.md
   - _pages/teaching.md  
   - _pages/books.md
+  - _pages/projects.md
 
 keep_files:
   - CNAME
