@@ -13,10 +13,10 @@ nav_order: 4
 
 <!-- JS 优先跳转 -->
 <script>
-  window.location.replace('{{ "/assets/pdf/example_pdf.pdf" | relative_url }}');
+  window.location.replace('{{ "/assets/pdf/CV_Zhihui_Yang.pdf" | relative_url }}');
 </script>
 
 <!-- Meta 兜底跳转 -->
-<meta http-equiv="refresh" content="0; url={{ "/assets/pdf/example_pdf.pdf" | relative_url }}" />
+<meta http-equiv="refresh" content="0; url={{ "/assets/pdf/CV_Zhihui_Yang.pdf" | relative_url }}" />
 
-<p>If you are not redirected, <a href="{{ "/assets/pdf/example_pdf.pdf" | relative_url }}">click here to open the CV (PDF)</a>.</p>
+<p>If you are not redirected, <a href="{{ "/assets/pdf/CV_Zhihui_Yang.pdf" | relative_url }}">click here to open the CV (PDF)</a>.</p>
