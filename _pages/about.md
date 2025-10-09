@@ -36,7 +36,7 @@ I am a third-year Master’s student majoring in Computational Linguistics at [B
 
 My primary interests lie at **the intersection of Computational Linguistics and Cognitive Science**. I am deeply curious about **meaning in both machines and humans**, with a particular emphasis on **how non-textual information interacts with language to contribute to meaning**. On the one hand, I aim to explore how cognitive theories and findings involving perception and action can be leveraged to evaluate and analyze AI systems, as well as to design AI systems with greater cognitive plausibility in terms of both data and mechanisms, ultimately leading to improved model performance or more efficient training. On the other hand, I seek to employ computational methods to better understand human language, particularly the conceptual networks and knowledge representation in the human brain.
 
-I have also worked on NLP for language and culture, with a strong interest in **developing language analysis tools** that can support applications in various domains. 
+I have also worked on NLP for language and cultural studies, with a strong interest in **developing language analysis tools** that can support applications in various domains. 
 
 I have completed three **language-related** internships, including NLP Algorithm Engineer for AI Safety at [Tencent](https://www.tencent.com/en-us/), Linguistic Specialist at [ByteDance](https://www.bytedance.com/en/products), and AI Strategy Product Manager (TTS) at [Xiaomi](https://ir.mi.com/corporate-information/company-profile).
 
