@@ -40,7 +40,7 @@ I am a third-year Master’s student majoring in Computational Linguistics at [B
 
 My main research interests lie at **the intersection of Natural Language Processing (NLP), linguistics, and cognitive science**.  I am deeply curious about meaning in both machines and humans, with a particular emphasis on **how non-textual information interacts with language to contribute to meaning**.  
 
-I am interested in the following questions:
+I am working on and interested in questions such as the following:
 
 **Linguistics and Cognitive Science → NLP**
 - How to evaluate and analyze AI systems by leveraging cognitive theories and findings concerning perception, embodiment, and social interaction and linguistics throies concerning semantics and pragmantic [[EMNLP findings 2025](https://arxiv.org/abs/2510.16924)]
