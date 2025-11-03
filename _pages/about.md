@@ -52,8 +52,8 @@ I am working on and interested in questions such as the following:
 - What cognitively plausible AI systems can reveal about language acquisition
 
 I have also worked on **NLP for language and cultural studies**, and I am broadly interested in:
-- developing useful tools to quantify linguistic features  
-- applying NLP methods to support cultural studies
+- Developing useful tools to quantify linguistic features  
+- Applying NLP methods to support cultural studies
 
 
 I have completed three **language-related** internships, including NLP Algorithm Engineer for AI Safety at [Tencent](https://www.tencent.com/en-us/), Linguistic Specialist at [ByteDance](https://www.bytedance.com/en/products), and AI Strategy Product Manager (TTS) at [Xiaomi](https://ir.mi.com/corporate-information/company-profile).
