@@ -48,8 +48,8 @@ I am working on and interested in questions such as the following:
 - How to design more efficient AI systems with greater cognitive plausibility by leveraging multimodal data and multimodal training approaches
 
 **NLP → Linguistics and Cognitive Science**  
-- What AI systems can tell us about human conceptual organization and knowledge representation  
-- What cognitively plausible AI systems can reveal about language acquisition
+- What AI systems can tell us about human conceptual representation and knowledge organization
+- What cognitively plausible AI systems can reveal about language acquisition and processing
 
 I have also worked on **NLP for language and cultural studies**, and I am broadly interested in:
 - Developing useful tools to quantify linguistic features  
