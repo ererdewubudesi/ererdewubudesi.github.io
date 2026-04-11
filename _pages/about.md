@@ -56,4 +56,4 @@ I have also worked on **NLP for language and cultural studies**, and I am broadl
 
 I have completed three **language-related** internships, including NLP Algorithm Engineer for AI Safety at [Tencent](https://www.tencent.com/en-us/), Linguistic Specialist at [ByteDance](https://www.bytedance.com/en/products), and AI Strategy Product Manager (TTS) at [Xiaomi](https://ir.mi.com/corporate-information/company-profile).
 
-Outside of academics, I enjoy practicing karate and taking walks in nature.
+Outside of academics, I enjoy practicing karate and taking walks in nature. Recently I have become interested in knitting.
